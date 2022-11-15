@@ -1,7 +1,3 @@
 Limpieza 
 Carne
 Agua
-Verduras
-Frutas
-Gaseosa 
-Galletitas
